@@ -1,9 +1,20 @@
 # MEAMVC
 This is the source code of MEAMVC.
+
 MEAMVC的源代码。
 
-P. Guo, C. Quan, H. Chen, MEAMVC: A Membrane Evolutionary Algorithm for Solving Minimum Vertex Cover Problem, IEEE Access. 7 (2019) 60774–60784. https://doi.org/10.1109/ACCESS.2019.2915550.
-
+If you feel our work helpful, please cite:
+```
+@article{guo_meamvc_2019,
+	title = {{MEAMVC}: {A} {Membrane} {Evolutionary} {Algorithm} for {Solving} {Minimum} {Vertex} {Cover} {Problem}},
+	volume = {7},
+	doi = {10.1109/ACCESS.2019.2915550},
+	journal = {IEEE Access},
+	author = {Guo, Ping and Quan, Changsheng and Chen, Haizhu},
+	year = {2019},
+	pages = {60774--60784},
+}
+```
 
 # Run
 Use 'make' to compile the source code, or import it to Qt or other ides and compile.
